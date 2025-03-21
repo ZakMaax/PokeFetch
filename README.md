@@ -33,7 +33,7 @@ A simple and interactive web application that displays a paginated list of 20 Po
 
 ## Live Demo
 
-Check out the live demo of the project: [Pokémon Explorer Live Demo](https://pokemonfetch.netlify.app/)
+Check out the live demo of the project: [Pokéfetch Live Demo](https://pokemonfetch.netlify.app/)
 
 ---
 
