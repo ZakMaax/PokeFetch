@@ -2,7 +2,7 @@
 
 # PokéFetch
 
-![Pokémon Explorer Screenshot](./screenshots/homepage.png)
+![PokéFetch Screenshot](./screenshots/homepage.png)
 
 A simple and interactive web application that displays a paginated list of 20 Pokémon fetched from the [PokeAPI](https://pokeapi.co/). Users can search and filter Pokémon by name or ID, and clicking on a Pokémon opens a modal with detailed information, including stats, abilities, height, weight, and a visual representation of stats using progress bars. The project is built with **React 19**, **Tailwind CSS 4**, and **React Icons**.
 
