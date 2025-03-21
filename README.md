@@ -114,7 +114,7 @@ Check out the live demo of the project: [Pokéfetch Live Demo](https://pokemonfe
 
 ## Author
 
-[Your Name](https://github.com/ZakMaax)
+[Sakarie W. Mohamed](https://github.com/ZakMaax)
 
 ---
 
